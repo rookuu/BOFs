@@ -6,6 +6,8 @@ Syscalls generated using @jthuraisamy's [SysWhispers](https://github.com/jthurai
 
 Code is adapted from ReactOS's implementation of MiniDumpWriteDump at [minidump.c](https://doxygen.reactos.org/d8/d5d/minidump_8c_source.html).
 
+> Disclaimer: I am not a professional C developer, this is largely cobbled together using public snippets and resources. It is likely not the best code you've ever seen :) 
+
 ## Usage
 
 ```
